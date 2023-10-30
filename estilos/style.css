@@ -105,7 +105,7 @@ body {
     font-weight: 400;
 }
 
-.apresentacao__links:hover{
+.apresentacao__links__navegacao:hover{
     color: var(--cor-terciaria);
     border-color: var(--cor-terciaria);
 }
